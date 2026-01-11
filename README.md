@@ -117,7 +117,6 @@ These clusters support targeted pricing, preventive care, and efficient resource
 
 ## 📁 Repository Structure
 
-```text
 .
 ├── data/
 │   └── medical_insurance.csv
