@@ -129,13 +129,18 @@ These clusters support targeted pricing, preventive care, and efficient resource
 
 ## 🔗 KNIME Workflow
 
-Due to GitHub file size limitations, the KNIME workflow file (`code.knwf`) cannot be uploaded directly to this repository.
+<details>
+<summary>Download KNIME workflow (code.knwf)</summary>
 
-The complete workflow can be downloaded here:
-👉 **[Download KNIME workflow (code.knwf)](https://drive.google.com/uc?id=1rYFW4BIPJPnemPzkDRG-3aNhyZGbcSbL&export=download)**
+Due to GitHub file size limitations, the KNIME workflow file is hosted externally.
 
-### How to run the workflow
-1. Download `code.knwf` from the link above
-2. Place it inside your local KNIME workspace
-3. Open it using **KNIME Analytics Platform**
+👉 [Download code.knwf](https://drive.google.com/uc?id=1rYFW4BIPJPnemPzkDRG-3aNhyZGbcSbL&export=download)
+
+To run the workflow:
+1. Download `code.knwf`
+2. Place it in your KNIME workspace
+3. Open it using KNIME Analytics Platform
 4. Execute the workflow from start to finish
+</details>
+
+
