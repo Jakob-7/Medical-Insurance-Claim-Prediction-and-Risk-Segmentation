@@ -117,13 +117,14 @@ These clusters support targeted pricing, preventive care, and efficient resource
 
 ## 📁 Repository Structure
 
-''' text
+```text
+.
 ├── data/
 │   └── medical_insurance.csv
 ├── report/
 │   └── Big_Data_&_Databases_Group_01_Presentation.pdf
 └── README.md
-
+```
 ---
 
 ## 🔗 KNIME Workflow
