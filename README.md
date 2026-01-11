@@ -1,3 +1,5 @@
+> **Note:** Due to GitHub file size limits, the KNIME workflow (`code.knwf`) is provided via an external download link below.
+
 # Medical Insurance Claim Prediction and Risk Segmentation
 ### Big Data & Databases Project (KNIME)
 
