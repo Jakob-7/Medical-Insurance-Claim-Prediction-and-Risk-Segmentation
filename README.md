@@ -113,11 +113,11 @@ These clusters support targeted pricing, preventive care, and efficient resource
 - Health status and utilization history dominate demographic predictors
 - False negatives (missed claimants) are more costly than false positives in insurance settings
 
---- 📁 🔗 👉
+---   
 
-## Repository Structure
+## 📁 Repository Structure
 
-.
+''' text
 ├── data/
 │   └── medical_insurance.csv
 ├── report/
@@ -126,13 +126,13 @@ These clusters support targeted pricing, preventive care, and efficient resource
 
 ---
 
-## KNIME Workflow
+## 🔗 KNIME Workflow
 
 Download KNIME workflow (code.knwf)
 
 Due to GitHub file size limitations, the KNIME workflow file is hosted externally.
 
-Download link:
+👉 Download link:
 https://drive.google.com/uc?id=1rYFW4BIPJPnemPzkDRG-3aNhyZGbcSbL&export=download
 
 How to run the workflow:
